@@ -1,6 +1,6 @@
 model
 name = wall
-revision = 8431
+revision = 8432
 size = 24 41 22
 origin = -y
 shell = Outline 0.25
