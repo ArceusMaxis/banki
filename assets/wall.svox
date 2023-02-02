@@ -1,7 +1,7 @@
 model
 name = wall
-revision = 8403
-size = 20 41 21
+revision = 8407
+size = 24 41 22
 origin = -y
 shell = Outline 0.25
 material type = toon, lighting = smooth, deform = 1 1
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-1220-16(420B400-)3(339B4(-19B)401-)339B2(-19B)-8B-B2(-8B)-B-8B-
+1466-4(20(20B4-)20B484-)3(7(5B19-)13(5B14-B4-)5B14-B484-)6(5B19-)14(5B14-B4-)5B14-B484-6(5B19-)14(5B14-B4-)4(5B499-6(5B19-)8(5B14-B4-)4(5B19-)2(5B14-B4-))2(5B14-B484-6(5B19-)8(5B14-B4-)4(5B19-)2(5B14-B4-))5B14-B647-7(B23-)B119-B23-B4-5B14-B647-9(B23-)B100-5B562-2(12(5B19-)5B18-6B18-3(5B19-)5B5-19B548-)12(5B19-)5B18-6B18-3(5B19-)5B5-8B-B-8B987-
