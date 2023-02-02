@@ -1,6 +1,6 @@
 model
 name = poopy
-revision = 8403
+revision = 8406
 size = 20 40 20
 origin = -y
 shell = Outline 0.25
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-20(380-420B)
+347-5B28-17(420B380-)420B347-5B28-420B380-420B
