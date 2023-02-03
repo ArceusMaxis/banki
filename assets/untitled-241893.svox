@@ -1,0 +1,9 @@
+model
+name = Untitled
+revision = 1
+size = 1
+origin = -y
+shell = Outline 0.25
+material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
+  colors = Outline:#000
+vo
