@@ -1,0 +1,9 @@
+model
+name = consultroom
+size = 160 40 160
+scale = 0.05
+origin = -y
+material type = toon, lighting = smooth, deform = 1 1 
+  colors = A:#FF6 B:#EEE C:#09F
+voxels
+-25B110-209B37(110-50B)110-210B38(110C50B)110C186B22(38(158-2B)158-162B)38(158-2B)158-161B34(C38(158-2C)158-C160B)28(C13(158A2C)25(158-2C)158-C160B)49(C38(158-2C)158-C160B)C38(158-2C)158-C161B22(38(158-2B)158-162B)38(158-2B)158-B
